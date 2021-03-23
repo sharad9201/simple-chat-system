@@ -1,0 +1,18 @@
+{
+  "name": "chatbix",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+
+    "startdev": "nodemon server.js"
+  },
+  "author": "sharad",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
